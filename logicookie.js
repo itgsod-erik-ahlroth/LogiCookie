@@ -1,3 +1,4 @@
+Javascript:
 function main() {
 
     /*ALL FUNCTIONS IN PROGRAM:*/
